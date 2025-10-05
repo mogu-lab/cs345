@@ -14,10 +14,16 @@ parts:
     - file: faq.md        
     - file: policies.md
     - file: skills-check.md
+    - title: Textbook
+      url: https://yanivyacoby.github.io/probabilistic-foundations-of-ml/
+    - title: Found a Typo?
+      url: https://docs.google.com/document/d/1qukk9gJaKuDjHYCPRQ7mwlWUcrGfGDb6uQ2HdDQM2Z4/e
+  - caption: Calendar
+    numbered: false
+    chapters:
     - file: schedule.md
     - file: oh.md
-    - title: Found a Typo?
-      url: https://docs.google.com/document/d/1qukk9gJaKuDjHYCPRQ7mwlWUcrGfGDb6uQ2HdDQM2Z4/edit?usp=sharing
+dit?usp=sharing
   - caption: Assignments
     numbered: false
     chapters:
@@ -36,48 +42,3 @@ parts:
       url: https://deepnote.com/workspace/cs-345-310c9b73-880a-47f6-bf25-ce4447f74107/project/Homework-6-Bayesian-Models-3eea7ffa-b4f0-46de-b252-15fcebfec2f1?utm_content=3eea7ffa-b4f0-46de-b252-15fcebfec2f1
     - title: Homework 7
       url: https://drive.google.com/drive/folders/1JP8d7OAeiw-Ff7cUhtMUBXRg-y2qkUMt?usp=sharing
-  - caption: Introduction
-    numbered: 2
-    chapters:
-    - file: introduction.md
-    - file: vectorization-basics.ipynb
-    - file: vectorization-advanced.ipynb            
-  - caption: Directed Graphical Models
-    numbered: 2
-    chapters:
-    - file: probability-discrete.ipynb
-    - file: probability-conditional.ipynb
-    - file: probability-joint.ipynb
-    - file: ethics-of-data.md
-  - caption: Frequentist Learning
-    numbered: 2
-    chapters:    
-    - file: mle-theory.ipynb
-    - file: mle-code.ipynb
-    - file: optimization.ipynb
-    - file: probability-continuous.ipynb
-    - file: ethics-of-learning-from-data.md    
-  - caption: Predictive Models
-    numbered: 2
-    chapters:
-    - file: regression.ipynb
-    - file: classification.ipynb
-    - file: neural-networks.ipynb
-    - file: model-selection.ipynb
-    - file: ethics-of-predictive-models.md
-  - caption: Generative Models
-    numbered: 2
-    chapters:
-    - file: gmms.ipynb        
-    - file: factor-analysis.ipynb
-    - file: ethics-of-generative-models.md
-  - caption: Bayesian Models
-    numbered: 2
-    chapters:    
-    - file: priors-and-posteriors.ipynb
-    - file: posterior-predictives.ipynb
-    - file: ethics-of-uncertainty-and-interpretability.md
-  - caption: Synthesis
-    numbered: 2
-    chapters:    
-    - file: ethics-of-ml.md
