@@ -17,13 +17,12 @@ parts:
     - title: Textbook
       url: https://yanivyacoby.github.io/probabilistic-foundations-of-ml/
     - title: Found a Typo?
-      url: https://docs.google.com/document/d/1qukk9gJaKuDjHYCPRQ7mwlWUcrGfGDb6uQ2HdDQM2Z4/e
+      url: https://docs.google.com/document/d/1qukk9gJaKuDjHYCPRQ7mwlWUcrGfGDb6uQ2HdDQM2Z4/edit?usp=sharing
   - caption: Calendar
     numbered: false
     chapters:
     - file: schedule.md
     - file: oh.md
-dit?usp=sharing
   - caption: Assignments
     numbered: false
     chapters:
