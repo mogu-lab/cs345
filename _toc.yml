@@ -17,7 +17,7 @@ parts:
   - caption: Resources
     numbered: false    
     - title: Textbook
-      url: https://yanivyacoby.github.io/probabilistic-foundations-of-ml/
+      url: https://mogu-lab.github.io/probabilistic-foundations-of-ml/
     - title: Found a Typo?
       url: https://docs.google.com/document/d/1qukk9gJaKuDjHYCPRQ7mwlWUcrGfGDb6uQ2HdDQM2Z4/edit?usp=sharing
   - caption: Calendar
