@@ -1,9 +1,9 @@
 # Probabilistic Foundations of ML
 
 ```{warning}
-We're working to expand the ML offerings at Wellesley with the introduction of a new course, [CS245](https://mogu-lab.github.io/cs245/) in the Spring of 2026. This course will cover a portion of the topics currently covered by CS345, allowing us to expand the topics covered by CS345. Assuming everything goes according to plan, please anticipate that,
-1. CS345 will be different in the Fall of 2026.
-2. CS345 will require CS245 as its only prerequisite.
+We're working to **expand** the ML offerings at Wellesley with the introduction of a new course, [CS245](https://mogu-lab.github.io/cs245/), in the Spring of 2026. This course will cover a **portion** of the topics currently covered by CS345, allowing us to expand the topics covered by CS345. Assuming everything goes according to plan, please anticipate that,
+1. CS345 will be **different** in the Fall of 2026.
+2. CS345 will require CS245 as its **only prerequisite**.
 ```
 
 
