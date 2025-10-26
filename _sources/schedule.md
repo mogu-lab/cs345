@@ -473,7 +473,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>The Ethics of Generative Models in Sociotechnical Systems</span>
+            <span>The Ethics of Generative Models in Sociotechnical Systems. Guest Lecture: Prof. <a href="https://www.wellesley.edu/people/mariah-caballero">Mariah Caballero</a>.</span>
           </li>
           <li>
             <span class="tag preclass_tag">Pre-Class:</span>
