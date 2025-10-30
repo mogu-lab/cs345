@@ -23,6 +23,16 @@ Looking to learn more about the design of this course? Check out our [recent pap
 
 **Textbook:** We wrote [this textbook](https://mogu-lab.github.io/probabilistic-foundations-of-ml/) *especially for this course*.
 
+**Approach:** In this course, we take a *"framework-focused"* approach to connect theory to application to ethics, an approach we developed in [this paper](https://arxiv.org/abs/2510.25049). 
+
+<br/>
+
+<center>
+    <img src="_static/figs/course-design.png" />
+</center>
+
+<br/>
+
 **Meeting Times:** 
 * Mondays, 8:30-9:45am
 * Wednesdays, 8:30-9:20am
