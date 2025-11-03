@@ -1,10 +1,15 @@
 # Probabilistic Foundations of ML
 
 ```{admonition} Notice!
-:class: tip
+:class: warning
 We're working to **expand** the ML offerings at Wellesley with the introduction of a new course, [CS245](https://mogu-lab.github.io/cs245/), in the Spring of 2026. This course will cover a **portion** of the topics currently covered by CS345, allowing us to expand the topics covered by CS345. Assuming everything goes according to plan, please anticipate that,
 1. CS345 will be **different** in the Fall of 2026.
 2. CS345 will require CS245 as its **only prerequisite**.
+```
+
+```{admonition} Update
+:class: tip
+Looking to learn more about the design of this course? Check out our [recent paper](https://arxiv.org/abs/2510.25049) about it!
 ```
 
 
@@ -16,7 +21,9 @@ We're working to **expand** the ML offerings at Wellesley with the introduction 
 
 **Description:** In recent years, Machine Learning has enabled applications that were previously not thought possible—from systems that propose novel drugs or generate new art/music, to systems that accurately and reliably predict outcomes of medical interventions in real-time. But what has enabled these developments? Faster computing hardware, large amounts of data, and the Probabilistic paradigm of Machine Learning (ML), a paradigm that casts recent advances in ML, like neural networks, into a statistical learning framework. In this course, we introduce the foundational concepts behind this paradigm—statistical model specification, and statistical learning and inference—focusing on connecting theory with real-world applications and hands-on practice. While expanding our methodological toolkit, we will simultaneously introduce critical perspectives to examine the ethics of ML within sociotechnical systems. This course lays the foundation for advanced study and research in ML. Topics include: directed graphical models, deep Bayesian regression/classification, generative models (latent variable models) for clustering, dimensionality reduction, and time-series forecasting. Students will get hands-on experience building models for specific tasks, most taken from healthcare contexts, using NumPyro, a Python-based probabilistic programming language. 
 
-**Textbook:** We wrote a [specialized textbook](https://mogu-lab.github.io/probabilistic-foundations-of-ml/) *especially for this course*.
+**Textbook:** We wrote [this textbook](https://mogu-lab.github.io/probabilistic-foundations-of-ml/) *especially for this course*.
+
+**Approach:** In this course, we take a *"framework-focused"* approach to connect theory to application to ethics---an approach we developed in [this paper](https://arxiv.org/abs/2510.25049). 
 
 **Meeting Times:** 
 * Mondays, 8:30-9:45am
