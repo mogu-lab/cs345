@@ -315,7 +315,7 @@ events:
   - month: "November"
     day: "24"
     day-of-week: "Monday"
-    topic: "Guest Lecture"
+    topic: "Class Cancelled; get some rest!"
     due: "HW6: Bayesian Models (by midnight the **night before**). Follow [these instructions](https://docs.google.com/forms/d/e/1FAIpQLScdmo-rkZy_KpKns9SH5uhenZcO6porLBaE9M8EoQvBMARnVg/viewform?usp=header)."
     released: "HW7: The Ethics of Machine Learning"
     pre-class: 
