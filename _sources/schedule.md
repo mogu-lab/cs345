@@ -592,7 +592,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Guest Lecture</span>
+            <span>Class Cancelled; get some rest!</span>
           </li>
           <li>
             <span class="tag due_tag">Due:</span>
