@@ -249,7 +249,7 @@ events:
   - month: "November"
     day: "06"
     day-of-week: "Thursday"
-    topic: "The Ethics of Generative Models in Sociotechnical Systems. Guest Lecture: Prof. [Mariah Caballero](https://www.wellesley.edu/people/mariah-caballero)."
+    topic: "The Ethics of Generative Models in Sociotechnical Systems [[slides](https://docs.google.com/presentation/d/18GT8Ja3d8dEh1E7BAbHMzIbEPSXfA29-LFg2r3-zR20/edit?usp=sharing)]. Guest Lecture: Prof. [Mariah Caballero](https://www.wellesley.edu/people/mariah-caballero)."
     due:
     released:
     pre-class: |
