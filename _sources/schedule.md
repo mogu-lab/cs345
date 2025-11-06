@@ -534,8 +534,8 @@ We may adapt the course schedule to accomodate your learning!
             <span class="tag extracredit_tag">Extra-Credit:</span>
             <span><ul>
 <li>Attend the talk by Prof. <a href="https://lindseydcameron.com">Lindsey Cameron</a></li>
-<li>Time: November 14 at TBD</li>
-<li>Location: TBD</li>
+<li>Time: November 14 at 4pm</li>
+<li>Location: SCI H105</li>
 <li>Answer reflection quetsions on Gradescope</li>
 </ul></span>
           </li>
