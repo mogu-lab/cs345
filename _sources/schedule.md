@@ -644,7 +644,7 @@ We may adapt the course schedule to accomodate your learning!
         <ul class="day_agenda">
           <li>
             <span class="tag topic_tag">Topic:</span>
-            <span>Special Topics</span>
+            <span>Special Topics: Developing Bayesian and latent variable models for suicide understanding and prevention. Presentations given by members of <a href="http://mogu-lab.github.io">MOGU Lab</a>.</span>
           </li>
         </ul>
       </td>
