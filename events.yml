@@ -349,7 +349,7 @@ events:
   - month: "December"
     day: "03"
     day-of-week: "Wednesday"
-    topic: "Special Topics"
+    topic: "Special Topics: Developing Bayesian and latent variable models for suicide understanding and prevention. Presentations given by members of [MOGU Lab](http://mogu-lab.github.io)."
     due:
     released:
     pre-class:
