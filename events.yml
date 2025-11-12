@@ -311,11 +311,16 @@ events:
     pre-class: |
       * Complete **all readings** listed in the corresponding chapter.
       * Answer the corresponding questions to prepare for class discussions.
+    extra-credit: |
+      * Attend the talk by Kaitlin Gili and Cynthia Feeney
+      * Time: November 20, 12:45-2pm
+      * Location: SCI H105
+      * Answer reflection quetsions on Gradescope
 
   - month: "November"
     day: "24"
     day-of-week: "Monday"
-    topic: "Class Cancelled; get some rest!"
+    topic: "Class cancelled; get some rest!"
     due: "HW6: Bayesian Models (by midnight the **night before**). Follow [these instructions](https://docs.google.com/forms/d/e/1FAIpQLScdmo-rkZy_KpKns9SH5uhenZcO6porLBaE9M8EoQvBMARnVg/viewform?usp=header)."
     released: "HW7: The Ethics of Machine Learning"
     pre-class: 
