@@ -536,7 +536,7 @@ We may adapt the course schedule to accomodate your learning!
 <li>Attend the talk by Prof. <a href="https://lindseydcameron.com">Lindsey Cameron</a></li>
 <li>Time: November 14, 3:30-5pm</li>
 <li>Location: SCI H105</li>
-<li>Answer reflection quetsions on Gradescope</li>
+<li>Answer reflection questions on Gradescope</li>
 </ul></span>
           </li>
         </ul>
@@ -588,7 +588,7 @@ We may adapt the course schedule to accomodate your learning!
 <li>Attend the talk by <a href="https://scholar.google.com/citations?user=8DEv_aUAAAAJ&amp;hl=en">Kaitlin Gili</a> and <a href="https://scholar.google.com/citations?user=GQY8QDYAAAAJ&amp;hl=en">Cynthia Feeney</a></li>
 <li>Time: November 20, 12:45-2pm</li>
 <li>Location: SCI H105</li>
-<li>Answer reflection quetsions on Gradescope</li>
+<li>Answer reflection questions on Gradescope</li>
 </ul></span>
           </li>
         </ul>
