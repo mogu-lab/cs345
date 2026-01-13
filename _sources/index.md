@@ -6,7 +6,9 @@ We're working to **expand** the ML offerings at Wellesley with the introduction 
 1. CS345 will be **different** in the Fall of 2026.
 2. CS345 will require CS245 as its **only prerequisite**.
 
-**Tentative Course Description:** In this course, we will incorporate ideas from modern deep learning into the probabilistic framework of machine learning to explore uncertainty, interpretability, and decision-making. The course develops rigorous understanding and practical fluency with Bayesian neural networks, Gaussian Processes, deep generative models (e.g. Variational Autoencoders), and scalable inference methods for high-dimensional, complex models (including variational inference and Markov Chain Monte Carlo methods). A central focus is on how probabilistic thinking informs model design, evaluation, and deployment in real-world, high-stakes settings such as healthcare. Throughout the course, students will implement and experiment with state-of-the-art probabilistic deep learning models in NumPyro, critically analyze their behavior and limitations in a way that bridges theory, computation, and ethical reflection.
+**Tentative New Title:** Probabilistic and Bayesian Deep Learning
+
+**Tentative New Description:** In this course, we will incorporate ideas from modern deep learning into the probabilistic framework of machine learning to explore uncertainty, interpretability, and decision-making. The course develops rigorous understanding and practical fluency with Bayesian neural networks, Gaussian Processes, deep generative models (e.g. Variational Autoencoders), and scalable inference methods for high-dimensional, complex models (including variational inference and Markov Chain Monte Carlo methods). A central focus is on how probabilistic thinking informs model design, evaluation, and deployment in real-world, high-stakes settings such as healthcare. Throughout the course, students will implement and experiment with state-of-the-art probabilistic deep learning models in NumPyro, critically analyze their behavior and limitations in a way that bridges theory, computation, and ethical reflection.
 ```
 
 ```{admonition} Update
