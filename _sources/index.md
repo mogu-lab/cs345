@@ -1,14 +1,13 @@
-# Probabilistic Foundations of ML
+# Probabilistic and Bayesian Deep Learning
+
+```{admonition} Update!
+:class: danger
+If you're interested in taking CS 345 in Spring 2027, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfuyXKLpAW4Gn4iy7CaeQlEPM5lDrJVMuo3KQRjjLzoEeAq5g/viewform?usp=dialog) form before **October 30th at midnight** for optimal consideration. If you missed the deadline, please go ahead and fill out the form **anyways** and you will be added to the waitlist!
+```
 
 ```{admonition} Notice!
 :class: warning
-We're working to **expand** the ML offerings at Wellesley with the introduction of a new course, [CS245](https://mogu-lab.github.io/cs245/), in the Spring of 2026. This course will cover a **portion** of the topics currently covered by CS345, allowing us to expand the topics covered by CS345. Assuming everything goes according to plan, please anticipate that,
-1. CS345 will be **different** in the Fall of 2026.
-2. CS345 will require CS245 as its **only prerequisite**.
-
-**Tentative New Title:** Probabilistic and Bayesian Deep Learning
-
-**Tentative New Description:** In this course, we will incorporate ideas from modern deep learning into the probabilistic framework of machine learning to explore uncertainty, interpretability, and decision-making. The course develops rigorous understanding and practical fluency with Bayesian neural networks, Gaussian Processes, deep generative models (e.g. Variational Autoencoders), and scalable inference methods for high-dimensional, complex models (including variational inference and Markov Chain Monte Carlo methods). A central focus is on how probabilistic thinking informs model design, evaluation, and deployment in real-world, high-stakes settings such as healthcare. Throughout the course, students will implement and experiment with state-of-the-art probabilistic deep learning models in NumPyro, critically analyze their behavior and limitations in a way that bridges theory, computation, and ethical reflection.
+This course is under construction.
 ```
 
 ```{admonition} Update
@@ -19,28 +18,21 @@ Looking to learn more about the design of this course? Check out our [recent pap
 
 **Instructor:** [Yaniv Yacoby](https://yanivyacoby.github.io/) (he/they)
 
-**Semester:** Fall 2025
+**Semester:** Spring 2027
 
 **Course Number:** CS 345 @ <img alt="Wellesley College" class="only-light" style="display: inline;" height=15 src="img/wc-name-logo-blue.png" /><img alt="Wellesley College" class="only-dark" style="display: inline;" height=15 src="img/wc-name-logo-white.png" />
 
-**Description:** In recent years, Machine Learning has enabled applications that were previously not thought possible—from systems that propose novel drugs or generate new art/music, to systems that accurately and reliably predict outcomes of medical interventions in real-time. But what has enabled these developments? Faster computing hardware, large amounts of data, and the Probabilistic paradigm of Machine Learning (ML), a paradigm that casts recent advances in ML, like neural networks, into a statistical learning framework. In this course, we introduce the foundational concepts behind this paradigm—statistical model specification, and statistical learning and inference—focusing on connecting theory with real-world applications and hands-on practice. While expanding our methodological toolkit, we will simultaneously introduce critical perspectives to examine the ethics of ML within sociotechnical systems. This course lays the foundation for advanced study and research in ML. Topics include: directed graphical models, deep Bayesian regression/classification, generative models (latent variable models) for clustering, dimensionality reduction, and time-series forecasting. Students will get hands-on experience building models for specific tasks, most taken from healthcare contexts, using NumPyro, a Python-based probabilistic programming language. 
+**Description:** In this course, we will incorporate ideas from modern deep learning into the probabilistic framework of machine learning to explore uncertainty, interpretability, and decision-making. The course develops rigorous understanding and practical fluency with Bayesian neural networks, Gaussian Processes, deep generative models (e.g. Variational Autoencoders), and scalable inference methods for high-dimensional, complex models (including variational inference and Markov Chain Monte Carlo methods). A central focus is on how probabilistic thinking informs model design, evaluation, and deployment in real-world, high-stakes settings such as healthcare. Throughout the course, students will implement and experiment with state-of-the-art probabilistic deep learning models in NumPyro, critically analyze their behavior and limitations in a way that bridges theory, computation, and ethical reflection.
 
 **Textbook:** We wrote [this textbook](https://mogu-lab.github.io/probabilistic-foundations-of-ml/) *especially for this course*.
 
 **Approach:** In this course, we take a *"framework-focused"* approach to connect theory to application to ethics---an approach we developed in [this paper](https://arxiv.org/abs/2510.25049). 
 
-**Meeting Times:** 
-* Mondays, 8:30-9:45am
-* Wednesdays, 8:30-9:20am
-* Thursdays, 8:30-9:45am
+**Meeting Times:** TBD
 
-**Location:** SCI H402
+**Location:** TBD
 
 **Distributions:** Data Literacy, and Mathematical Modeling and Problem Solving.
 
-**Prerequisites:**
-1. At least **one** of: CS244, CS305, CS344, STAT260, STAT318, MIT6.390, or the QAI Summer Program.
-2. At least **one** of: MATH 205, MATH 206, MATH 220, or MATH 225.
-3. Comfort in Python.
-4. Permission of the instructor.
+**Prerequisites:** CS 245 and permission of the instructor.
 
