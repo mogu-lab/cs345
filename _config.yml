@@ -8,9 +8,9 @@
 
 #######################################################################################
 # Book settings
-title: Probabilistic Foundations of Machine Learning (CS345)
+title: Probabilistic and Bayesian Deep Learning (CS345)
 author: 
-copyright: "2025"  # Copyright year to be placed in the footer
+copyright: "2026"  # Copyright year to be placed in the footer
 logo: img/logo.png  # A path to the book logo
 
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
